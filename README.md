@@ -49,6 +49,8 @@ push the code to github
 ![ouput](output1.png)
 ![ouput](output2.png)
 ![ouput](output3.png)
-![ouput](output4.png)
+![ouput](output4.png)s
+![output](marina.jpeg)
+
 ## Result:
 thus the experiment completed sucessfully
