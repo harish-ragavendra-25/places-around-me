@@ -46,5 +46,9 @@ push the code to github
 
 ## Output:
 ![output](imagemapoutput.png)
+![ouput](output1.png)
+![ouput](output2.png)
+![ouput](output3.png)
+![ouput](output4.png)
 ## Result:
 thus the experiment completed sucessfully
